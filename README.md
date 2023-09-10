@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Trabalhando no Sem Parar Empresas<br> 🕶 Full Stack em aprimoramento<br>🤝 JAVA/C#/JS<br>🌱 Aprendendo React/Angular<br>⚡ Amante do SQL
+🔭 Trabalhando no Sem Parar Empresas<br> 🕶 Full Stack em aprimoramento<br>🤝 JAVA/C#/JS<br>🌱 Aprendendo React/Angular<br>
 
 
 ## 🌐 Socials:
