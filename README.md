@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Ruza</h1>
-<h3 align="center">A future fullstack developer from BraSil.</h3>
+<h3 align="center">A fullstack jr developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruzafelipe&label=Profile%20views&color=0e75b6&style=flat" alt="ruzafelipe" /> </p>
 
